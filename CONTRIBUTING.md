@@ -9,7 +9,7 @@ The **🖼️ Sims 4 CAS Background** is the ultimate customization tool for Cre
 
 <div align="center">
 
-[![Download Sims 4 CAS Background](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/sims-4-cas-background)
+[![Download Sims 4 CAS Background](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/sims-4-cas-background)
 
 </div>
 
@@ -110,7 +110,7 @@ The default background limits your creativity. You want to change it.
 6. **🎮 Launch The Sims 4** — open the game
 7. **👤 Enter CAS** — see your new background
 
-[![Download Sims 4 CAS Background](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/sims-4-cas-background)
+[![Download Sims 4 CAS Background](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/sims-4-cas-background)
 
 ### Choosing a Background
 
@@ -205,7 +205,7 @@ Transform your Create-a-Sim experience. **Sims 4 CAS Background** lets you repla
 
 <div align="center">
 
-[![Download Sims 4 CAS Background](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/sims-4-cas-background)
+[![Download Sims 4 CAS Background](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/sims-4-cas-background)
 
 **Version 4.6.1** — Custom CAS backgrounds. Free forever.
 
